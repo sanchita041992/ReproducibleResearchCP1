@@ -1,7 +1,7 @@
 ---
-title: "Course Project 1 - Reproducible Research"
-author: "Shengyu Chen"
-date: "March 20, 2016"
+title: "ReproducibleResearchCP1"
+author: "Sanchita Basu"
+date: "March 16, 2022"
 output: html_document
 ---
 
